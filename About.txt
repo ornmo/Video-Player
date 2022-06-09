@@ -1,7 +1,7 @@
-This project is 
+This project is a video player. 
 
-It uses 
+The video can be played and paused by pressing anywhere in the video. 
 
-It can be used as an example of 
+When the USer hovers towards the bottom of the video a video control menu bar opens. 
+The User can change the volume of the video, the speed of the video playback, the size of the screen and even select a point in the video to navigate to.
 
-- 
